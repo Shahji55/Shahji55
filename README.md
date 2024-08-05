@@ -2,7 +2,7 @@
 
 I'm an AI/ML Engineer with several years experience of working on a variety of projects which utilized AI to solve a particular problem. Specifically, my expertise in the field of AI includes computer vision, deep learning and machine learning. 
 
-I've worked on end to end pipelines which have involved collection of datasets, training of models, integration of trained models in the pipeline, optimization of the models and the deployment of the pipelines. These pipelines have been developed for GPU and edge devices, and deployed for clients both onsite and on cloud platforms (AWS, GCP).
+I've worked on end to end pipelines which have involved collection of datasets, training of models, integration of trained models in the pipeline, optimization of the models and the deployment of the pipelines. These pipelines have been developed for GPU and edge devices (Nvidia Jetson Nano), and deployed for clients both onsite and on cloud platforms (AWS, GCP).
 
 <!--
 **Shahji55/Shahji55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
