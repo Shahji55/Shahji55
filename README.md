@@ -6,6 +6,10 @@ I've worked on end to end ML pipelines which have involved collection of dataset
 
 In my current role as a Senior AI/ML Engineer, I'm responsible for hands-on development on different projects as well as leading a team of AI engineers.
 
+### My Skills Profile
+
+Python, Pytorch, Tensorflow, TensorRT, Deepstream, Git, Docker, AWS, Google Cloud Platform, Scikit-learn, Numpy, OpenCV, Pandas, MySQL, VS Code
+
 <!--
 **Shahji55/Shahji55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
