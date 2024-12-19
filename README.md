@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm an AI/ML Engineer with 4+ years experience of working on a variety of projects which utilized AI to solve a particular problem. Specifically, my expertise in the field of AI includes computer vision, deep learning and machine learning. 
+I'm an AI/ML Engineer with several years experience of working on a variety of AI projects, which utilized Machine Learning, Deep Learning and Computer Vision to provide solutions for different clients' use cases.
 
-I've worked on end to end ML pipelines which have involved collection of datasets, training of AI models, integration of trained models in the pipeline, optimization of the models and the deployment of the pipelines. These pipelines have been developed for GPU and edge devices (Nvidia Jetson Nano), and deployed for clients both onsite and on cloud platforms (AWS, GCP).
+I've developed end to end ML pipelines which have involved overseeing collection/annotation of datasets, training/fine-tuning and evaluation of AI models, integration of trained models in the pipeline, optimization of the models/pipelines for production environments and the deployment of the pipelines. These pipelines have been developed for GPU and edge devices, and deployed for clients both onsite and on cloud platforms.
 
-In my current role as a Senior AI/ML Engineer, I'm responsible for hands-on development on different projects as well as leading a team of AI engineers.
+In my role as a Senior AI/ML Engineer, I have been responsible for hands-on development on different projects as well as leading a team of AI engineers. Additionally, I have been involved in direct communication with clients and stakeholders to understand their requirements/feedback and pitched technical proposals to them.
 
 ### My Skills Profile
 
-Python, Pytorch, Tensorflow, TensorRT, Deepstream, Git, Docker, AWS, Google Cloud Platform, Scikit-learn, Numpy, OpenCV, Pandas, MySQL, VS Code
+Python, Pytorch, Tensorflow, TensorRT, Deepstream, Git, Docker, AWS, Google Cloud Platform, Scikit-learn, Numpy, OpenCV, Pandas, SQL, VS Code
 
 <!--
 **Shahji55/Shahji55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
