@@ -8,7 +8,7 @@ In my role as a Senior AI/ML Engineer, I have been responsible for hands-on deve
 
 ### My Skills Profile
 
-Python, Pytorch, Tensorflow, TensorRT, Deepstream, Git, Docker, AWS, Google Cloud Platform, Scikit-learn, Numpy, OpenCV, Pandas, SQL, VS Code
+Python, Pytorch, Tensorflow, TensorRT, Deepstream, Git, Docker, Google Cloud Platform, Scikit-learn, Numpy, OpenCV, Pandas, SQL, VS Code
 
 <!--
 **Shahji55/Shahji55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
