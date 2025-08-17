@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an AI/ML Engineer with several years experience of working on a variety of AI projects, which utilized Machine Learning, Deep Learning and Computer Vision to provide solutions for different clients' use cases.
+I'm an AI/ML Engineer with several years experience of working on a variety of AI projects, which utilized Machine Learning, Deep Learning, LLMs and Computer Vision to provide solutions for different clients' use cases.
 
 I've developed end to end ML pipelines which have involved overseeing collection/annotation of datasets, training/fine-tuning and evaluation of AI models, integration of trained models in the pipeline, optimization of the models/pipelines for production environments and the deployment of the pipelines. These pipelines have been developed for GPU and edge devices, and deployed for clients both onsite and on cloud platforms.
 
