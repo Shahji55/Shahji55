@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm an AI/ML Engineer with several years experience of working on a variety of AI projects, which utilized Machine Learning, Deep Learning, LLMs and Computer Vision to provide solutions for different clients' use cases.
+I am an experienced AI Engineer with a strong background in developing and optimizing end-to-end AI systems using Machine Learning, Deep Learning, Computer Vision and LLMs. These systems were designed to provide
+solutions for complex problems, which helped clients to make better, informed business decisions.
 
-I've developed end to end ML pipelines which have involved overseeing collection/annotation of datasets, training/fine-tuning and evaluation of AI models, integration of trained models in the pipeline, optimization of the models/pipelines for production environments and the deployment of the pipelines. These pipelines have been developed for GPU and edge devices, and deployed for clients both onsite and on cloud platforms.
+I have developed end to end ML pipelines which have involved overseeing collection/annotation of datasets, training/fine-tuning and evaluation of AI models, integration of trained models in the pipeline, optimization of the models/pipelines for production environments and the deployment of the pipelines. These pipelines have been developed for GPU and edge devices, and deployed for clients both onsite and on cloud platforms.
 
-In my role as an AI/ML Engineer, I have been responsible for hands-on development as well as mentouring the junior AI engineers in the team. Additionally, I have been involved in direct communication with clients and stakeholders to understand their requirements/feedback and pitched technical proposals to them.
+In my role as an AI/ML Engineer, I have been responsible for hands-on development as well as mentouring the junior AI engineers in the team. Additionally, I have collaborated directly with clients and stakeholders to gather requirements, present technical proposals, and incorporate feedback into iterative product development.
 
 ### My Skills Profile
 
